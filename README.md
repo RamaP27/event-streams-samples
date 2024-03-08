@@ -1,3 +1,4 @@
+LEARNING...!
 # event-streams-samples
 IBM Event Streams for IBM Cloud is a scalable, distributed, high throughput message bus to unite your on-premise and off-premise cloud technologies. You can wire micro-services together using open protocols, connect stream data to analytics to realize powerful insight and feed event data to multiple applications to react in real time.
 
